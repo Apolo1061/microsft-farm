@@ -1,0 +1,39 @@
+# Apolo1061
+# DC: Sombra9002
+# Date: 19/08/2025
+
+### COSAS QUE NECESITAS TENER
+1.- PC con Edge actualizado
+2.- Python3 - VERSION: 3.13.7
+
+Primero tendrás que instalar las dependencias abre una cmd y pone
+
+pip install -r requirements.txt
+
+si no puedes con ese utiliza este
+
+python3 -m pip install -r requirements.txt
+
+
+Ahora tienes que instalar el webdriver para eso accedes aquí
+
+https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+
+En Windows para saber que arquitectura sos haces lo siguiente
+abres powershell y pones esto
+
+wmic os get osarchitecture
+
+hay te dira tu arquitectura
+descargas el que tenga tu arquitectura y de hay descomprimes el archivo
+
+de hay copias la ruta del msedgedriver.exe
+
+después abres una terminal en la carpeta donde esta el script farm.py
+de hay ejecutas
+
+python3 farm.py
+
+pones la ruta del msedgedriver.exe
+
+y listo ya se estarán mando los puntos sin hacer nada
