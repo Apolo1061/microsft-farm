@@ -14,7 +14,7 @@
 ## 🌌 Microsoft Rewind
 
 > 🌐 **Apolo1061**  
-> Script usable públicamente para ganar puntos para **Microsoft Rewards** 💎.  
+> Necesitas tener instalado **msedgedriver** 
 
 ✨ **Incluye**:
 - 💻 AntiBot detector
